@@ -2,7 +2,7 @@
 
 # <div align="center">Bus Tracker</div>
 
-<img src= "BusStops.png" width='300'/>
+<img src= "BusStops.png" width='500'/>
 
 ### <div align="center">About</div>
 
