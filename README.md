@@ -1,4 +1,4 @@
-![bus](https://user-images.githubusercontent.com/87256580/133336730-987038d7-a826-473b-a6cf-883a8b0a18d5.jpg)
+![bus](https://www.google.com/maps/search/bus+stops+between+harvard+and+mit/@42.3675519,-71.1168866,14z)
 
 # <div align="center">Bus Tracker</div>
 
