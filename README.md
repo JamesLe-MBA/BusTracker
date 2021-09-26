@@ -2,6 +2,8 @@
 
 # <div align="center">Bus Tracker</div>
 
+<img src= "oneeye.png" width='300'/>
+
 ### <div align="center">About</div>
 
 In this project displays various bus stops between MIT and Harward.
