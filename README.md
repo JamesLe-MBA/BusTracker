@@ -1,4 +1,3 @@
-![bus](https://www.google.com/maps/search/bus+stops+between+harvard+and+mit/@42.3675519,-71.1168866,14z)
 
 # <div align="center">Bus Tracker</div>
 
