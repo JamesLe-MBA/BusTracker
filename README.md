@@ -1,7 +1,7 @@
 
 # <div align="center">Bus Tracker</div>
 
-<img src= "BusStops.png" width='500'/>
+<img src= "BusStops.png" width='888'/>
 
 ### <div align="center">About</div>
 
