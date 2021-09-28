@@ -13,7 +13,7 @@ In this project displays various bus stops between MIT and Harward.
  3. Watch the pupiles which follow cursor movement
 
  ### <div align="center">Roadmap of Major Future Improvements</div>
- - For real-world applicaiton, a major feature is to click on the bus marker in real time to display the new project schedule based on the current schedule which can be either behind or early.
+ - For real-world application, one major feature is to click on the bus marker to display the new project schedule based on the current time which can be either behind or early.
 
 ### <div align="center">License Information</div>
  - [MIT License](https://mit-license.org/)
