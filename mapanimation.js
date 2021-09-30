@@ -21,7 +21,7 @@ mapboxgl.accessToken = "pk.eyJ1Ijoib3NjYXJ0aWMiLCJhIjoiY2tyMWRpMGt4MjFqcDJ1bW5qb
 // This is the map instance
 let map = new mapboxgl.Map({
   container: "map",
-  style: "mapbox://styles/mapbox/streets-v11",
+  style: "mapbox://styles/mapbox/satellite-streets-v11",
   center: [-71.104081, 42.365554],
   zoom: 14,
 });
